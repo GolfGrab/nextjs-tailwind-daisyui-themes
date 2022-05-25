@@ -2,6 +2,12 @@
 
 [ Next.js + Tailwind CSS + daisyUI + next-themes ]  Typescript Template
 
+[Multiple Themes for Next.js with next-themes, Tailwind CSS and CSS Custom Properties](https://darrenwhite.dev/blog/nextjs-tailwindcss-theming)
+
+---
+
+## Create Next App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
